@@ -1,5 +1,9 @@
-## 👋 Hi, I'm Abhay Kumar
-### 🚀 Cloud • AI • Full Stack Developer
+# 👋 Hey, I'm Abhay Kumar
+
+🚀 **Founder @ ShreeTechServices**  
+☁️ **Cloud | DevOps | AI Enthusiast**  
+🛠️ **Building Smart Apps & AI Bots**
+
 ## 🛠 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,git,github,jenkins,terraform" />
