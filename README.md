@@ -113,31 +113,7 @@ CI/CD pipelines, containerization, monitoring, and deployment optimization.
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhaykumar-shreetech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaykumar-shreetech&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=abhaykumar-shreetech&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhaykumar-shreetech/abhaykumar-shreetech/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
